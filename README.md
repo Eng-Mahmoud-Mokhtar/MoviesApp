@@ -1,4 +1,4 @@
-# MovesApp
+# MoviesApp
 
 استمتع بمشاهدة أحدث الأفلام والمسلسلات بسهولة! 🎬✨
 
@@ -24,5 +24,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![ab46a4d3-0f35-411a-8ba3-f3f02c68b9a2](https://github.com/user-attachments/assets/bde5282a-85f0-4ce8-a61f-4215b5c7281c)
-![7342c514-81e7-4f08-9b3f-fde57f3af14e](https://github.com/user-attachments/assets/cd683f86-669a-4b18-afc9-b808e2714bf1)
 ![6c5b96f2-5011-4298-8dcf-ef417d970852](https://github.com/user-attachments/assets/8fcac149-8d40-454e-a7fb-d607b8d4f7c5)
